@@ -8,4 +8,4 @@
   <h3>The friends who share your hobby of <%= request.getParameter("hobby")%> are: </h3>
   <br><br>
   </body>
-</html>
+</html>S
